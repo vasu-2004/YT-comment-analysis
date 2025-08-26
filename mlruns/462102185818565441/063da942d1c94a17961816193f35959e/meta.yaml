@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/462102185818565441/063da942d1c94a17961816193f35959e/artifacts
+end_time: 1756003940684
+entry_point_name: ''
+experiment_id: '462102185818565441'
+lifecycle_stage: active
+run_id: 063da942d1c94a17961816193f35959e
+run_name: judicious-bee-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756003921427
+status: 3
+tags: []
+user_id: vasu2
