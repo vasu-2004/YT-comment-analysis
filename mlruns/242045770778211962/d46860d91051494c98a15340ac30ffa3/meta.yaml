@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/242045770778211962/d46860d91051494c98a15340ac30ffa3/artifacts
+end_time: 1756186921887
+entry_point_name: ''
+experiment_id: '242045770778211962'
+lifecycle_stage: active
+run_id: d46860d91051494c98a15340ac30ffa3
+run_name: rebellious-fly-268
+run_uuid: d46860d91051494c98a15340ac30ffa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756186919041
+status: 3
+tags: []
+user_id: vasu2

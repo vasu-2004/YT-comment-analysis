@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/855007330463216078/d6361a37dcda48bc8d1205e8f07e23a7/artifacts
+end_time: 1756273124421
+entry_point_name: ''
+experiment_id: '855007330463216078'
+lifecycle_stage: active
+run_id: d6361a37dcda48bc8d1205e8f07e23a7
+run_name: adorable-steed-644
+run_uuid: d6361a37dcda48bc8d1205e8f07e23a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756273121686
+status: 3
+tags: []
+user_id: vasu2

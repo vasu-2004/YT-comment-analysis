@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462102185818565441/b88698bdf99244f98850937e154ed146/artifacts
+end_time: 1756189865034
+entry_point_name: ''
+experiment_id: '462102185818565441'
+lifecycle_stage: active
+run_id: b88698bdf99244f98850937e154ed146
+run_name: useful-crane-182
+run_uuid: b88698bdf99244f98850937e154ed146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756189862244
+status: 3
+tags: []
+user_id: vasu2

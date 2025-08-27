@@ -1,0 +1,2 @@
+This is a test artifact file.
+It confirms that MLflow can save files from a run.

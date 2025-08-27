@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462102185818565441/eb1aadf3c4694b50836e8df58faf08f1/artifacts
+end_time: 1756190055214
+entry_point_name: ''
+experiment_id: '462102185818565441'
+lifecycle_stage: active
+run_id: eb1aadf3c4694b50836e8df58faf08f1
+run_name: welcoming-wasp-638
+run_uuid: eb1aadf3c4694b50836e8df58faf08f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756190052247
+status: 3
+tags: []
+user_id: vasu2

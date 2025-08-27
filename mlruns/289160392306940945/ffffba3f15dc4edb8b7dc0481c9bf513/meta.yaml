@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/289160392306940945/ffffba3f15dc4edb8b7dc0481c9bf513/artifacts
+end_time: 1756186403889
+entry_point_name: ''
+experiment_id: '289160392306940945'
+lifecycle_stage: active
+run_id: ffffba3f15dc4edb8b7dc0481c9bf513
+run_name: Test Run - Basic Logging
+run_uuid: ffffba3f15dc4edb8b7dc0481c9bf513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756186403298
+status: 3
+tags: []
+user_id: vasu2

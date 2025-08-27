@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462102185818565441/f5d26d25e603444ba2ed59f229ef303d/artifacts
+end_time: 1756189743103
+entry_point_name: ''
+experiment_id: '462102185818565441'
+lifecycle_stage: active
+run_id: f5d26d25e603444ba2ed59f229ef303d
+run_name: upset-carp-332
+run_uuid: f5d26d25e603444ba2ed59f229ef303d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756189740363
+status: 3
+tags: []
+user_id: vasu2
